@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff0f5;
+    text-align: center;
+}
+h1 {
+    font-size: 48px;
+    color: #FF69B4;
+}
+.message {
+    font-size: 20px;
+    padding: 20px;
+}
+.cake-container {
+    position: relative;
+}
+.balloons, .flowers {
+    width: 100px;
+    margin: 10px;
+}
+.hidden {
+    display: none;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.photo {
+    margin: 10px;
+}
+.photo img {
+    width: 200px;
+    height: 200px;
+}
+.final-message {
+    font-size: 20px;
+    color: #333;
+    padding: 20px;
+}
